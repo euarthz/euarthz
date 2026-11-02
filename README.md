@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, eu sou o Arthur 👋
 
-<!--
-**euarthz/euarthz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Engenharia de Software na Universidade Católica de Brasília (conclusão prevista em dez/2027), em Brasília-DF.
+Meu foco é **IA aplicada (LLMs)** e **desenvolvimento seguro** com cibersegurança.
 
-Here are some ideas to get you started:
+## Em andamento
+- Assistente de LGPD com RAG em Python (repositório em breve)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+Python · JavaScript (Node.js) · SQLite · Git
+
+## Estudos
+Redes (CCNA) · CompTIA Security+ · SSDLC · LGPD
+
+## Contato
+- [LinkedIn](https://www.linkedin.com/in/arthursantospro/)
+- arthursantospro.aabs@gmail.com
