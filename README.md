@@ -1,16 +1,17 @@
 # Olá, eu sou o Arthur 👋
 
-Estudante de Engenharia de Software na Universidade Católica de Brasília (conclusão prevista em dez/2027), em Brasília-DF.
-Meu foco é **IA aplicada (LLMs)** e **desenvolvimento seguro** com cibersegurança.
+Estudante de Engenharia de Software na Universidade Católica de Brasília, em Brasília-DF.
+Meu foco é **IA aplicada (LLMs)** e **desenvolvimento seguro**.
 
-## Em andamento
-- Assistente de LGPD com RAG em Python (repositório em breve)
+## Projetos
+- [lgpd-rag-assistant](https://github.com/euarthz/lgpd-rag-assistant): assistente de perguntas sobre a LGPD com RAG local (Python, Ollama), com conjunto de avaliação e verificação de citações
+- [stockcontrol-web](https://github.com/euarthz/stockcontrol-web): sistema web de estoque e notas fiscais (projeto acadêmico, Node.js)
 
 ## Tecnologias
-Python · JavaScript (Node.js) · SQLite · Git
+Python · RAG com LLMs locais (Ollama) · JavaScript (Node.js) · SQLite · Git
 
 ## Estudos
-Redes (CCNA) · CompTIA Security+ · SSDLC · LGPD
+Redes de computadores · CompTIA Security+ (em preparação) · introdução à cibersegurança (Cisco, em andamento) · SSDLC · LGPD
 
 ## Contato
 - [LinkedIn](https://www.linkedin.com/in/arthursantospro/)
